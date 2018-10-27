@@ -1,0 +1,42 @@
+body{
+    background-image: url("../images/back1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    background-color: #5cfa00;
+    width: 179px;
+    float: left;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 8px;
+    padding-bottom: 9px;
+    
+}
+
+nav {
+    height: 66px;
+    margin-right: 200px;
+    float: right;
+}
+
+header {
+    height: 0px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-bottom: 30px;
+    padding-bottom: 66px;
+    border-bottom: 2px solid #cccccc;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+
+
